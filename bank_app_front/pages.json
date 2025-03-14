@@ -87,10 +87,10 @@
 			},
 			{
 				"pagePath": "pages/account/list",
-				"iconPath": "static/images/tabbar/account.png",
-				"selectedIconPath": "static/images/tabbar/account-active.png",
-				"text": "账户"
-			},
+				"iconPath": "", 
+				"selectedIconPath": "", 
+				"text": "⭐ 账户" 
+			  },
 			{
 				"pagePath": "pages/asset/statistics",
 				"iconPath": "static/images/tabbar/statistics.png",
